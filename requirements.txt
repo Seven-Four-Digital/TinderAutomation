@@ -2,7 +2,7 @@
 # https://github.com/Damnever/pigar
 
 # bot.py: 11
-Keras == 2.1.5
+Keras == 3.9.0
 
 # bot.py: 2
 # image_processing.py: 7
